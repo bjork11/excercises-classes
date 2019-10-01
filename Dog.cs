@@ -2,6 +2,7 @@ using System;
 
 namespace excercises_classes
 {
+    //Del 1
     public class Dog
     {
         public string name;
